@@ -55,6 +55,7 @@ import skritikou.taxibeattest.Models.SingleVenueResponse;
 import skritikou.taxibeattest.Models.Venue;
 import skritikou.taxibeattest.Models.VenuesResponse;
 import skritikou.taxibeattest.Presenters.MapPresenter;
+import skritikou.taxibeattest.Presenters.MapPresenterImpl;
 import skritikou.taxibeattest.R;
 import skritikou.taxibeattest.REST.ApiClient;
 import skritikou.taxibeattest.taxibeatUtilities.CommonUtils;
@@ -85,6 +86,7 @@ public class MapVenuesFragment extends Fragment implements OnMapReadyCallback,
     private boolean mCameraMoved = false;
     private HashMap<String, Venue> markerIdsToVenues;
     private ArrayList<String> mVenueIds;
+    private MapPresenterImpl mpImpl;
 
     private OnFragmentInteractionListener mListener;
 
@@ -329,55 +331,29 @@ public class MapVenuesFragment extends Fragment implements OnMapReadyCallback,
     }
 
     private void getVenues() {
-        MapPresenter apiService =
-                ApiClient.getClient().create(MapPresenter.class);
 
-        Call<VenuesResponse> venuesCall = apiService.getVenueSpots(getLocationAsString(),
+        mpImpl = mActivity.getMapPresenter();
+        mpImpl.getCandyVenues(this, getLocationAsString(),
                 Constants.CATEGORY,
                 Constants.CLIENT_ID,
                 Constants.SECRET,
                 Constants.VERSION);
+    }
 
-        venuesCall.enqueue(new Callback<VenuesResponse>() {
-            @Override
-            public void onResponse(Call<VenuesResponse> call, Response<VenuesResponse> response) {
-                ArrayList<Venue> venuesReturned = response.body().getResults();
-                addMarkersToMap(venuesReturned);
-            }
+    public void setVenuesArray(ArrayList<Venue> venuesArray){
+        addMarkersToMap(venuesArray);
+    }
 
-            @Override
-            public void onFailure(Call<VenuesResponse> call, Throwable t) {
-                // Log error here since request failed
-                Log.d("Retrofit", "error on getting venues : " + t.getMessage());
-
-            }
-        });
+    public void setmVenueShown(Venue venueSelected){
+        this.mVenueShown = venueSelected;
+        adjustInfoWindow(mVenueShown);
     }
 
     private void getVenueDetails(Venue venue) {
-        MapPresenter apiService =
-                ApiClient.getClient().create(MapPresenter.class);
-
-        Call<SingleVenueResponse> venueDetails = apiService.getVenueDetails(
-                venue.getId(),
+        mpImpl.getVenueDetailed(this, venue.getId(),
                 Constants.CLIENT_ID,
                 Constants.SECRET,
                 Constants.VERSION);
-
-        venueDetails.enqueue(new Callback<SingleVenueResponse>() {
-            @Override
-            public void onResponse(Call<SingleVenueResponse> call, Response<SingleVenueResponse> response) {
-                mVenueShown = response.body().getVenueReturned();
-                adjustInfoWindow(mVenueShown);
-            }
-
-            @Override
-            public void onFailure(Call<SingleVenueResponse> call, Throwable t) {
-                // Log error here since request failed
-                Log.d("Retrofit", "error on getting venue : " + t.getMessage());
-
-            }
-        });
     }
 
     private void addMarkersToMap(ArrayList<Venue> venues) {
@@ -543,5 +519,5 @@ public class MapVenuesFragment extends Fragment implements OnMapReadyCallback,
         void onFragmentInteraction(int mode, Venue venueShown);
     }
 
-   
+
 }
