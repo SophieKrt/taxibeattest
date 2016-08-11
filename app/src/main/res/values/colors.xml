@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5BC69B</color>
+    <color name="colorPrimaryDark">#2C7A5B</color>
+    <color name="colorAccent">#8FFFD2</color>
+
+
+    <color name="transparent_border">#CCdfdbd4</color>
+    <color name="red_dark">#792e1f</color>
+    <color name="orange_theme">#c67363</color>
+    <color name="orange_theme_light">#e7a291</color>
+    <color name="divider_gray">#cacaca</color>
+    <color name="description_gray">#999999</color>
+
+    <color name="black_opacity_eighty">#CC000000</color>
+</resources>

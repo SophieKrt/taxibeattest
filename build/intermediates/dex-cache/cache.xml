@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="51d4993d6a642a4f00d1eb1de3fad4c7a9705224">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4e342863066ec9ee34aba1ec4aaa787f045a8386/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_59efad58d10857ddffe8bba868e8d45252fa4699/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/exploded-aar/jp.co.cyberagent.android.gpuimage/gpuimage-library/1.4.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="eb9f1cef6b29492df701111c555908cb53dece35">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/jp.co.cyberagent.android.gpuimage-gpuimage-library-1.4.1_adf94f9e5f487db6b63ed03f541614766953b85b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_b5c57669f0128a5c51ecbb87aab96327c4f414a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/exploded-aar/me.drakeet.materialdialog/library/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="e79701ed34126d644387847d96e96e66b34e18b7">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.drakeet.materialdialog-library-1.3.0_525842816934b9dfd10157bf76fa69c08b18ad3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha4/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="affe29a90a2a709bfd2b8d6411aa99c05a2be96f">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha4_df4882c43374cfebcfd4d626b803c58b2c97bb46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_34ed2929065df3adea34a44e657ffc8c842eab99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_0ac143d920a193218eaf966c50ffdd6ce3a67034/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_989bdd6d5162fbd37584d502389d2c5cffb5f8da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.4.0_f4e52039563eb01cffb475108add67ecd29e8c85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="72a806a06c157b9a1a800055ec2c04318d264c00">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e6abc131a01325f76e48f8017df460d57c6997d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha4/constraint-layout-solver-1.0.0-alpha4.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="a882fef6a6b9e3efbb0b6b001895a5fc7c35b391">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha4_e07bf0ffa55c0ec6a25cd9899f9ed0681f9319a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_afd5435b619d81fa0b998ca7e0cfa72f2933aa64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.2.1_86ca46e765137d8da0cfdd035558236f071de63c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/exploded-aar/jp.wasabeef/picasso-transformations/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="3fb1fe781490fcf9fa47ee2c268279f777266a6a">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/jp.wasabeef-picasso-transformations-2.1.0_09d8b2d21f720d9380be67e36ca0ff8383241925/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_af297262d3117575b2e936540af372c18a4828f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_dc188733cf6ccd808fbd1e667f87d7ed44b8f636/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_32923c78203e360a0a721178b87842351d32d7ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_208f41937b50a211722044bcb3205f22d3e7b1ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_a3c03847433a3dbc090dd0ac9d8770fa8f794f1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/exploded-aar/com.github.ybq/Android-SpinKit/1.0.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="917457e2cf1d47a3923a262372055a10e59c14ca">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.ybq-Android-SpinKit-1.0.5_e02726568bb5c9d996ef8bf4ee9ae72bf682312b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/exploded-aar/pub.devrel/easypermissions/0.1.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="2ffd97c466e0021572f3c7333839c71ecdf393ed">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/pub.devrel-easypermissions-0.1.5_02917a3bc11b388ebd3fb41a4b6a12eb17410ab6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/Library/Android/sdk/build-tools/24.0.0/renderscript/lib/renderscript-v8.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="2b063d8386ee79136f6a60efa936f422be61dbb2">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/renderscript-v8_dd36d134b7843d20c5c211f95deff902b6469da1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.2.1/d6f54d76edfbe779a50a8636b10fd3f555d8f780/butterknife-annotations-8.2.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.2.1_5d35b2c8b61fc87e8780657a6fa5acbfa4e5b312/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.4.0_db66cf11138a7d5a7eff3400499f1d967e492e09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_35f22bab52bc40babfe4fb53b3d52beba469f29a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_ae6c4c5c4979e32795465b511d87577292a3d709/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_ca0c962c881a71063660803178730c418dd2941e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.2_fcdaf9bc8f8a0178216ba1c54c23e5a58ef646e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sofi/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/sofi/Documents/Android Projects/TaxiBeatTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_e79a90a5086f9de2415b90ecb464899be23a7ff1/classes.dex" />
+    </item>
+
+</items>
